@@ -4,4 +4,6 @@ A Robust adaptive control is implemented for a wind turbine with actuator faults
 A paper presenting this technique has been accepted to MECC 2021 conference and its preprint will be avialble on arxiv.
 This sourece code is distributed in the hope that it will be useful, but without any warranty. We do request that publications in which this method is improved or adopted for other applications, explicitly acknowledge that fact by citing the corresponding paper:
 
+https://arxiv.org/abs/2106.14944
+
 For further information do not hesitate to contact me.
